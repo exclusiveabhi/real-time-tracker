@@ -1,7 +1,7 @@
 // server/config/db.js
 const mongoose = require('mongoose');
 
-const mongoURI = 'mongodb+srv://exclusiveabhi:maCdjaRpoWvGczS5@cluster1.baefyre.mongodb.net/?retryWrites=true&w=majority';
+const mongoURI = 'mongodb+srv://exclusiveabhi:PASSWORD@cluster1.baefyre.mongodb.net/?retryWrites=true&w=majority';
 
 const connectDB = async () => {
   try {
