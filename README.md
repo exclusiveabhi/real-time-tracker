@@ -91,8 +91,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Leaflet**: Open-source JavaScript library for mobile-friendly interactive maps.
 - **OpenStreetMap**: Open data mapping service.
 
----
-
-Feel free to adjust the content further based on your project specifics and requirements.
-
 Happy Coding!
